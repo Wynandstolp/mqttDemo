@@ -1,0 +1,6 @@
+framework module Pods_MQTTDemoUITests {
+  umbrella header "Pods-MQTTDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
